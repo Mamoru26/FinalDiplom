@@ -63,17 +63,15 @@ ASP.NET WEB API • NestJS • Docker • Vue.js</p>
             <div class="lg:w-3/12 py-2 px-2 w-full">
                 <p class="text_stile px-4 py-2">Информация для связи:</p>
                 <div class="py-1">
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">Почта</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">UriNova@gmail.com</p>
                 </div>
                 <div class="py-1">
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">тг</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">t.me/urinovimkov</p>
                 </div>
                 <div class="py-1">
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">гитхаб</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">https://github.com/UriNova</p>
                 </div>
-                <div class="py-1">
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">линкедин</p>
-                </div>
+                
                 <p class="text_stile px-4 py-2">Желаемая ЗП:</p>
                 <p class="px-4 py-1  bg-blue-200 rounded-lg">От 2000 $</p>
                 <p class="text_stile px-4 py-2">Обо мне:</p>

@@ -16,43 +16,42 @@
                 
             
                 
-                <p class="text_stile px-4 py-2">Программист на HTML</p>
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">Мужчина, 40 лет, родился 4 сентября 1981. Ставрополь, не готов к переезду, готов к редким командировкам</p>
+                <p class="text_stile px-4 py-2">Юрий Новиков</p>
+                <p class="text_stile px-4 py-2">Backend Developer • Бэкенд разработчик • Средний (Middle)</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">Возраст: 19 лет</p>
                 <p class="text_stile px-4 py-2">Ключевые навыки:</p>
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">СКЛ ЯЗЫК1 ЯЗЫК2 ЯЗЫК 3 ЯЗЫК 5 ЯЗЫК СТО ЕСТЬ ГОВНО ЛОПАТАМИ</p>
-                <p class="text_stile px-4 py-2">Опыт работы 100 лет 2 месяца</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">.NET Core • ASP.NET WEB API • C# • Node.js • NestJS • TypeScript</p>
+                <p class="text_stile px-4 py-2">Опыт работы 1 год и 9 месяцев</p>
                 <div class="py-1">
                 <div class="px-4 py-1  bg-blue-200 rounded-lg">
-                <p >Место работы номер 1</p>
-                <p >Ставрополь</p>
-                <p >На работе я бегал какал и пукал на я зыке</p>
-                <p>хуйня, дарование пиздец</p>
-                </div>
-                </div>
-                <div class="py-1">
-                <div class="px-4 py-1  bg-blue-200 rounded-lg">
-                <p >Место работы номер 1</p>
-                <p >Ставрополь</p>
-                <p >На работе я бегал какал и пукал на я зыке</p>
-                <p>хуйня, дарование пиздец</p>
+                <p >Rebase</p>
+                <p >Санкт-Петербург • От 10 до 100 сотрудников</p>
+                <p >Technical Lead
+Декабрь 2020 — Январь 2022 (1 год и 2 месяца)</p>
+                <p>Node.js • NestJS • PostgreSQL • Redis • Docker • TypeScript • C#</p>
                 </div>
                 </div>
                 <div class="py-1">
                 <div class="px-4 py-1  bg-blue-200 rounded-lg">
-                <p >Место работы номер 1</p>
-                <p >Ставрополь</p>
-                <p >На работе я бегал какал и пукал на я зыке</p>
-                <p>хуйня, дарование пиздец</p>
+                <p >ИП Новиков Ю. Р</p>
+                <p >Санкт-Петербург</p>
+                <p >Исполнительный директор
+Декабрь 2020 — Апрель 2021 (5 месяцев)</p>
+                <p>Предоставление услуг по разработке веб-сервисов. 
+
+ASP.NET WEB API • NestJS • Docker • Vue.js</p>
                 </div>
                 </div>
                 <div class="py-1">
                 <div class="px-4 py-1  bg-blue-200 rounded-lg">
-                <p >Место работы номер 1</p>
-                <p >Ставрополь</p>
-                <p >На работе я бегал какал и пукал на я зыке</p>
-                <p>хуйня, дарование пиздец</p>
+                <p >Высокотехнологичные Розничные Решения</p>
+                <p >Санкт-Петербург</p>
+                <p >Младший NodeJs разработчик. 
+Май 2020 — Декабрь 2020 (8 месяцев)</p>
+                <p>Node.js • TypeScript • Express • NestJS • PostgreSQL • Docker</p>
                 </div>
                 </div>
+                
                 
                 </div>
                 
@@ -64,21 +63,19 @@
             <div class="lg:w-3/12 py-2 px-2 w-full">
                 <p class="text_stile px-4 py-2">Информация для связи:</p>
                 <div class="py-1">
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">Почта</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">UriNova@gmail.com</p>
                 </div>
                 <div class="py-1">
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">тг</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">t.me/urinovimkov</p>
                 </div>
                 <div class="py-1">
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">гитхаб</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">https://github.com/UriNova</p>
                 </div>
-                <div class="py-1">
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">линкедин</p>
-                </div>
+                
                 <p class="text_stile px-4 py-2">Желаемая ЗП:</p>
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">50 000р.</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">От 2000 $</p>
                 <p class="text_stile px-4 py-2">Обо мне:</p>
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">Сергей Есенин не сразу нашел свое литературное кредо: он бросался из одного направления в другое. Сначала выступал в лаптях и рубахе с новокрестьянскими поэтами, затем, облачившись в пиджак и галстук, создавал с имажинистами новую литературу. В конце концов он отказался от всех школ и стал свободным художником, заявив: «Я не крестьянский поэт и не имажинист, я просто поэт».</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">Я предпочитаю сотрудничать со стартапами, организациями и компаниями, которые занимаются созданием и поддержкой цифровых продуктов. Готов ответить на все ваши вопросы в телефонном разговоре или видеоконференции.</p>
 
             </div>
             </div>

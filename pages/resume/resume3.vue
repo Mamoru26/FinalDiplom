@@ -16,41 +16,50 @@
                 
             
                 
-                <p class="text_stile px-4 py-2">Программист на HTML</p>
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">Мужчина, 40 лет, родился 4 сентября 1981. Ставрополь, не готов к переезду, готов к редким командировкам</p>
+                <p class="text_stile px-4 py-2">Никита Гайденко</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">Возраст: 19 лет</p>
                 <p class="text_stile px-4 py-2">Ключевые навыки:</p>
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">СКЛ ЯЗЫК1 ЯЗЫК2 ЯЗЫК 3 ЯЗЫК 5 ЯЗЫК СТО ЕСТЬ ГОВНО ЛОПАТАМИ</p>
-                <p class="text_stile px-4 py-2">Опыт работы 100 лет 2 месяца</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">Git • Linux • PostgreSQL • SQL • Nginx • Docker • React • JavaScript • Redux • HTML</p>
+                <p class="text_stile px-4 py-2">Опыт работы: 1 год и 4 месяца</p>
                 <div class="py-1">
                 <div class="px-4 py-1  bg-blue-200 rounded-lg">
-                <p >Место работы номер 1</p>
-                <p >Ставрополь</p>
-                <p >На работе я бегал какал и пукал на я зыке</p>
-                <p>хуйня, дарование пиздец</p>
-                </div>
-                </div>
-                <div class="py-1">
-                <div class="px-4 py-1  bg-blue-200 rounded-lg">
-                <p >Место работы номер 1</p>
-                <p >Ставрополь</p>
-                <p >На работе я бегал какал и пукал на я зыке</p>
-                <p>хуйня, дарование пиздец</p>
+                <p >SecretOrg</p>
+                <p >Москва</p>
+                <p >Frontend Developer. Апрель 2022 — По настоящее время (3 месяца). Разработка сайта, связанного с blockchain тематикой - https://secretcalendar.org/</p>
+                <p>JavaScript • React • TypeScript • Redux</p>
                 </div>
                 </div>
                 <div class="py-1">
                 <div class="px-4 py-1  bg-blue-200 rounded-lg">
-                <p >Место работы номер 1</p>
-                <p >Ставрополь</p>
-                <p >На работе я бегал какал и пукал на я зыке</p>
-                <p>хуйня, дарование пиздец</p>
+                <p >Айбим</p>
+                <p >Москва</p>
+                <p >Frontend Developer. Ноябрь 2021 — По настоящее время (8 месяцев)</p>
+                <p>React • JavaScript • Redux</p>
                 </div>
                 </div>
                 <div class="py-1">
                 <div class="px-4 py-1  bg-blue-200 rounded-lg">
-                <p >Место работы номер 1</p>
-                <p >Ставрополь</p>
-                <p >На работе я бегал какал и пукал на я зыке</p>
-                <p>хуйня, дарование пиздец</p>
+                <p >ФГБУ "Акваинфотека"</p>
+                <p >Москва</p>
+                <p >Март 2021 — По настоящее время (1 год и 4 месяца)
+                        Разработка телефонного справочника и service-desk. Разрабатывал на следующих технологиях:
+
+                        Backend - Django(DRF), celery, redis, postgreSQL
+
+                        Frontend - React, Redux, Typescript
+
+                        Deploy - Heroku, AWS, Nginx, Gunicorn</p>
+                <p>JavaScript • React • Redux • Django • Python • PostgreSQL • Nginx</p>
+                </div>
+                </div>
+                <div class="py-1">
+                <div class="px-4 py-1  bg-blue-200 rounded-lg">
+                <p >Qenetex</p>
+                <p >Москва</p>
+                <p >Fullstack Developer
+                  Октябрь 2021 — Октябрь 2021 (1 месяц)
+                  Разработка крипто кошелька, для обмена криптовалютами.</p>
+                <p>Python • AIOHTTP • React • Redux • TypeScript</p>
                 </div>
                 </div>
                 
@@ -64,21 +73,39 @@
             <div class="lg:w-3/12 py-2 px-2 w-full">
                 <p class="text_stile px-4 py-2">Информация для связи:</p>
                 <div class="py-1">
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">Почта</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">brookenik@yandex.ru</p>
                 </div>
                 <div class="py-1">
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">тг</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">t.me/nikita99</p>
                 </div>
                 <div class="py-1">
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">гитхаб</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">https://github.com/broooke</p>
                 </div>
-                <div class="py-1">
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">линкедин</p>
-                </div>
+                
                 <p class="text_stile px-4 py-2">Желаемая ЗП:</p>
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">50 000р.</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">От 160 000р.</p>
                 <p class="text_stile px-4 py-2">Обо мне:</p>
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">Сергей Есенин не сразу нашел свое литературное кредо: он бросался из одного направления в другое. Сначала выступал в лаптях и рубахе с новокрестьянскими поэтами, затем, облачившись в пиджак и галстук, создавал с имажинистами новую литературу. В конце концов он отказался от всех школ и стал свободным художником, заявив: «Я не крестьянский поэт и не имажинист, я просто поэт».</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">Frontend:
+
+                  TypeScript, JavaScript (ES6+)
+                  ReactJS
+                  Redux, Redux Thunk,  Redux Toolkit
+                  Formik, React Hook Form
+                  ESLint, Prettier
+                  SCSS / styled-components
+                  Material UI, Bootstrap
+                  Jest
+                  Backend:
+
+                  Node.JS / Nest.JS
+                  Sequalize / MongoDB / Mongoose
+                  JWT
+                  Другие скиллы:
+
+                  Git / GitHub / Bitbucket / GitLab
+                  MySQL / NoSQL
+                  JSON
+                  Jira, Confluence</p>
 
             </div>
             </div>

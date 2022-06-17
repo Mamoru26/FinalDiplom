@@ -16,43 +16,28 @@
                 
             
                 
-                <p class="text_stile px-4 py-2">Программист на HTML</p>
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">Мужчина, 40 лет, родился 4 сентября 1981. Ставрополь, не готов к переезду, готов к редким командировкам</p>
+                <p class="text_stile px-4 py-2">Владислав Разин</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">Возраст: 19 лет</p>
                 <p class="text_stile px-4 py-2">Ключевые навыки:</p>
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">СКЛ ЯЗЫК1 ЯЗЫК2 ЯЗЫК 3 ЯЗЫК 5 ЯЗЫК СТО ЕСТЬ ГОВНО ЛОПАТАМИ</p>
-                <p class="text_stile px-4 py-2">Опыт работы 100 лет 2 месяца</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">JavaScript • Git • PostgreSQL • Docker • Node.js • Веб-разработка • React</p>
+                <p class="text_stile px-4 py-2">Опыт работы 2 года и 4 месяца</p>
                 <div class="py-1">
                 <div class="px-4 py-1  bg-blue-200 rounded-lg">
-                <p >Место работы номер 1</p>
-                <p >Ставрополь</p>
-                <p >На работе я бегал какал и пукал на я зыке</p>
-                <p>хуйня, дарование пиздец</p>
-                </div>
-                </div>
-                <div class="py-1">
-                <div class="px-4 py-1  bg-blue-200 rounded-lg">
-                <p >Место работы номер 1</p>
-                <p >Ставрополь</p>
-                <p >На работе я бегал какал и пукал на я зыке</p>
-                <p>хуйня, дарование пиздец</p>
+                <p >Health Samurai</p>
+                <p >Санкт-Петербург</p>
+                <p >Junior full stack developer. Сентябрь 2020 — По настоящее время (1 год и 10 месяцев)</p>
+                <p>JavaScript • Git • PostgreSQL • Docker • React • Node.js • Kubernetes</p>
                 </div>
                 </div>
                 <div class="py-1">
                 <div class="px-4 py-1  bg-blue-200 rounded-lg">
-                <p >Место работы номер 1</p>
-                <p >Ставрополь</p>
-                <p >На работе я бегал какал и пукал на я зыке</p>
-                <p>хуйня, дарование пиздец</p>
+                <p >Dotsolution</p>
+                <p >Сургут</p>
+                <p >Backend разработчик. Март 2020 — Август 2020 (6 месяцев). Разработка микросервисов</p>
+                <p>JavaScript • Node.js • PostgreSQL • MySQL • Python • Docker • Flask • Базы данных • SQLalchemy</p>
                 </div>
                 </div>
-                <div class="py-1">
-                <div class="px-4 py-1  bg-blue-200 rounded-lg">
-                <p >Место работы номер 1</p>
-                <p >Ставрополь</p>
-                <p >На работе я бегал какал и пукал на я зыке</p>
-                <p>хуйня, дарование пиздец</p>
-                </div>
-                </div>
+                
                 
                 </div>
                 
@@ -64,21 +49,19 @@
             <div class="lg:w-3/12 py-2 px-2 w-full">
                 <p class="text_stile px-4 py-2">Информация для связи:</p>
                 <div class="py-1">
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">Почта</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">razin36986@gmail.com</p>
                 </div>
                 <div class="py-1">
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">тг</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">@VladosCocos418</p>
                 </div>
                 <div class="py-1">
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">гитхаб</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">https://github.com/VladosCocos</p>
                 </div>
-                <div class="py-1">
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">линкедин</p>
-                </div>
+                
                 <p class="text_stile px-4 py-2">Желаемая ЗП:</p>
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">50 000р.</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">От 150 000р.</p>
                 <p class="text_stile px-4 py-2">Обо мне:</p>
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">Сергей Есенин не сразу нашел свое литературное кредо: он бросался из одного направления в другое. Сначала выступал в лаптях и рубахе с новокрестьянскими поэтами, затем, облачившись в пиджак и галстук, создавал с имажинистами новую литературу. В конце концов он отказался от всех школ и стал свободным художником, заявив: «Я не крестьянский поэт и не имажинист, я просто поэт».</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">Молодой и перспективный сотрудник. Ищу новые возможности и новые направления</p>
 
             </div>
             </div>

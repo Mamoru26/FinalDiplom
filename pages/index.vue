@@ -56,6 +56,30 @@
                         .NET
                     </label>
                     </div>
+                    <div class="form-check">
+                    <input class="form-check-input appearance-none h-4 w-4 border border-gray-300 rounded-sm bg-white checked:bg-blue-600 checked:border-blue-600 focus:outline-none transition duration-200 mt-1 align-top bg-no-repeat bg-center bg-contain float-left mr-2 cursor-pointer" type="checkbox" value="" id="flexCheckChecked" >
+                    <label class="form-check-label inline-block text-gray-800" for="flexCheckChecked">
+                        PHP
+                    </label>
+                    </div>
+                    <div class="form-check">
+                    <input class="form-check-input appearance-none h-4 w-4 border border-gray-300 rounded-sm bg-white checked:bg-blue-600 checked:border-blue-600 focus:outline-none transition duration-200 mt-1 align-top bg-no-repeat bg-center bg-contain float-left mr-2 cursor-pointer" type="checkbox" value="" id="flexCheckChecked" >
+                    <label class="form-check-label inline-block text-gray-800" for="flexCheckChecked">
+                        Vue.js
+                    </label>
+                    </div>
+                    <div class="form-check">
+                    <input class="form-check-input appearance-none h-4 w-4 border border-gray-300 rounded-sm bg-white checked:bg-blue-600 checked:border-blue-600 focus:outline-none transition duration-200 mt-1 align-top bg-no-repeat bg-center bg-contain float-left mr-2 cursor-pointer" type="checkbox" value="" id="flexCheckChecked" >
+                    <label class="form-check-label inline-block text-gray-800" for="flexCheckChecked">
+                        C++
+                    </label>
+                    </div>
+                    <div class="form-check">
+                    <input class="form-check-input appearance-none h-4 w-4 border border-gray-300 rounded-sm bg-white checked:bg-blue-600 checked:border-blue-600 focus:outline-none transition duration-200 mt-1 align-top bg-no-repeat bg-center bg-contain float-left mr-2 cursor-pointer" type="checkbox" value="" id="flexCheckChecked" >
+                    <label class="form-check-label inline-block text-gray-800" for="flexCheckChecked">
+                        C#
+                    </label>
+                    </div>
                 </div>
                 </li>
                 <li class="id_folow flex items-center ">
@@ -131,13 +155,25 @@
                     <div class="form-check">
                     <input class="form-check-input appearance-none h-4 w-4 border border-gray-300 rounded-sm bg-white checked:bg-blue-600 checked:border-blue-600 focus:outline-none transition duration-200 mt-1 align-top bg-no-repeat bg-center bg-contain float-left mr-2 cursor-pointer" type="checkbox" value="" id="flexCheckDefault">
                     <label class="form-check-label inline-block text-gray-800" for="flexCheckDefault">
-                        Default checkbox
+                        Полная
                     </label>
                     </div>
                     <div class="form-check">
                     <input class="form-check-input appearance-none h-4 w-4 border border-gray-300 rounded-sm bg-white checked:bg-blue-600 checked:border-blue-600 focus:outline-none transition duration-200 mt-1 align-top bg-no-repeat bg-center bg-contain float-left mr-2 cursor-pointer" type="checkbox" value="" id="flexCheckChecked" >
                     <label class="form-check-label inline-block text-gray-800" for="flexCheckChecked">
-                        Checked checkbox
+                        Гибкий график
+                    </label>
+                    </div>
+                    <div class="form-check">
+                    <input class="form-check-input appearance-none h-4 w-4 border border-gray-300 rounded-sm bg-white checked:bg-blue-600 checked:border-blue-600 focus:outline-none transition duration-200 mt-1 align-top bg-no-repeat bg-center bg-contain float-left mr-2 cursor-pointer" type="checkbox" value="" id="flexCheckChecked" >
+                    <label class="form-check-label inline-block text-gray-800" for="flexCheckChecked">
+                        Частичная
+                    </label>
+                    </div>
+                    <div class="form-check">
+                    <input class="form-check-input appearance-none h-4 w-4 border border-gray-300 rounded-sm bg-white checked:bg-blue-600 checked:border-blue-600 focus:outline-none transition duration-200 mt-1 align-top bg-no-repeat bg-center bg-contain float-left mr-2 cursor-pointer" type="checkbox" value="" id="flexCheckChecked" >
+                    <label class="form-check-label inline-block text-gray-800" for="flexCheckChecked">
+                        Удаленная работа
                     </label>
                     </div>
                 </div>
@@ -190,14 +226,14 @@
                     <div class="lg:flex  lg:flex-wrap g-0 px-2 py-2">
                         
                         <div class="lg:w-6/12 px-2 py-1 ">
-                        <p class="text_stile text-left">Программист чертов онанист питону рад ебучий гад</p> 
-                        <p class="text_sile_old text-left py-1">Опыт работы: 100 лет</p>
+                        <p class="text_stile text-left">Георгий Худяков. Бэкенд разработчик • Фронтенд разработчик • Middle</p> 
+                        <p class="text_sile_old text-left py-1">Опыт работы: 4 года и 6 месяцев</p>
                         <p class="text_stile text-left py-2">Ключевые навыки:</p>
-                        <p class="text_sile_old text-left py-1">-Дрочить свой питон сутками ебать как же это охуительно </p>
-                            <p class="text_sile_old text-left ">-Еще пхп люблю пиздец просто</p>
+                        <p class="text_sile_old text-left py-1">Vue.js • HTML • CSS • JavaScript </p>
+                            <p class="text_sile_old text-left ">• Адаптивная верстка • PHP • MySQL</p>
                         </div>
                         <div class="lg:w-6/12 px-2 py-1 ">
-                            <p class="text_stile text-right py-6">Северо-Кавказский федеральный университет</p>
+                            <p class="text_stile text-right py-6">Санкт-Петербургский университет технологий управления и экономики</p>
                             <p class="text_stile text-right py-8">Активно ищу работу!</p>
                         </div>
                     </div>
@@ -216,14 +252,14 @@
                     <div class="lg:flex  lg:flex-wrap g-0 px-2 py-2">
                         
                         <div class="lg:w-6/12 px-2 py-1 ">
-                        <p class="text_stile text-left">Программист чертов онанист питону рад ебучий гад</p> 
-                        <p class="text_sile_old text-left py-1">Опыт работы: 100 лет</p>
+                        <p class="text_stile text-left">Никита Гайденко. Frontend Developer • Бэкенд разработчик • Фулстек разработчик • Middle</p> 
+                        <p class="text_sile_old text-left py-1">Опыт работы: 1 год и 4 месяца</p>
                         <p class="text_stile text-left py-2">Ключевые навыки:</p>
-                        <p class="text_sile_old text-left py-1">-Дрочить свой питон сутками ебать как же это охуительно </p>
-                            <p class="text_sile_old text-left ">-Еще пхп люблю пиздец просто</p>
+                        <p class="text_sile_old text-left py-1">Git • Linux • PostgreSQL • SQL • Nginx • Docker </p>
+                            <p class="text_sile_old text-left ">• React • JavaScript • Redux • HTML</p>
                         </div>
                         <div class="lg:w-6/12 px-2 py-1 ">
-                            <p class="text_stile text-right py-6">Северо-Кавказский федеральный университет</p>
+                            <p class="text_stile text-right py-6">РЭУ им. Г.В. Плеханова</p>
                             <p class="text_stile text-right py-8">Активно ищу работу!</p>
                         </div>
                     </div>
@@ -242,14 +278,14 @@
                     <div class="lg:flex  lg:flex-wrap g-0 px-2 py-2">
                         
                         <div class="lg:w-6/12 px-2  ">
-                        <p class="text_stile text-left">Программист чертов онанист питону рад ебучий гад</p> 
-                        <p class="text_sile_old text-left py-1">Опыт работы: 100 лет</p>
+                        <p class="text_stile text-left">Владислав Разин. JS developer • Бэкенд разработчик • Фронтенд разработчик • Middle</p> 
+                        <p class="text_sile_old text-left py-1">Опыт работы: 2 года и 4 месяца</p>
                         <p class="text_stile text-left py-2">Ключевые навыки:</p>
-                        <p class="text_sile_old text-left py-1">-Дрочить свой питон сутками ебать как же это охуительно </p>
-                            <p class="text_sile_old text-left ">-Еще пхп люблю пиздец просто</p>
+                        <p class="text_sile_old text-left py-1">JavaScript • Git • PostgreSQL • Docker </p>
+                            <p class="text_sile_old text-left ">• Node.js • Веб-разработка • React</p>
                         </div>
                         <div class="lg:w-6/12 px-2  ">
-                            <p class="text_stile text-right py-6">Северо-Кавказский федеральный университет</p>
+                            <p class="text_stile text-right py-6">СурГУ • Автоматики и телекоммуникаций</p>
                             <p class="text_stile text-right py-7">Активно ищу работу!</p>
                         </div>
                     </div>

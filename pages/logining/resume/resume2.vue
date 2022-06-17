@@ -16,43 +16,29 @@
                 
             
                 
-                <p class="text_stile px-4 py-2">Программист на HTML</p>
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">Мужчина, 40 лет, родился 4 сентября 1981. Ставрополь, не готов к переезду, готов к редким командировкам</p>
+                  <p class="text_stile px-4 py-2">Георгий Худяков</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">Возраст: 39 лет</p>
                 <p class="text_stile px-4 py-2">Ключевые навыки:</p>
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">СКЛ ЯЗЫК1 ЯЗЫК2 ЯЗЫК 3 ЯЗЫК 5 ЯЗЫК СТО ЕСТЬ ГОВНО ЛОПАТАМИ</p>
-                <p class="text_stile px-4 py-2">Опыт работы 100 лет 2 месяца</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">Vue.js • HTML • CSS • JavaScript • Адаптивная верстка • PHP • MySQL</p>
+                <p class="text_stile px-4 py-2">Опыт работы 4 года и 6 месяцев</p>
                 <div class="py-1">
                 <div class="px-4 py-1  bg-blue-200 rounded-lg">
-                <p >Место работы номер 1</p>
-                <p >Ставрополь</p>
-                <p >На работе я бегал какал и пукал на я зыке</p>
-                <p>хуйня, дарование пиздец</p>
-                </div>
-                </div>
-                <div class="py-1">
-                <div class="px-4 py-1  bg-blue-200 rounded-lg">
-                <p >Место работы номер 1</p>
-                <p >Ставрополь</p>
-                <p >На работе я бегал какал и пукал на я зыке</p>
-                <p>хуйня, дарование пиздец</p>
+                <p >РИВЦ-Пулково</p>
+                <p >Санкт-Петербург</p>
+                <p >Frontend разработчик. Октябрь 2020 — По настоящее время (1 год и 9 месяцев). Разработка новых и поддержка старых проектов для авиакомпаний</p>
+                <p>JavaScript • HTML • CSS • SCSS • Адаптивная верстка • Vue.js • PHP</p>
                 </div>
                 </div>
                 <div class="py-1">
                 <div class="px-4 py-1  bg-blue-200 rounded-lg">
-                <p >Место работы номер 1</p>
-                <p >Ставрополь</p>
-                <p >На работе я бегал какал и пукал на я зыке</p>
-                <p>хуйня, дарование пиздец</p>
+                <p >Aqmart.ru</p>
+                <p >Санкт-Петербург</p>
+                <p >Веб разработчик. Январь 2018 — Октябрь 2020 (2 года и 10 месяцев). Поддержка работающего проекта на wordpress. Написание модулей для системы управление, расширение функционала фронтенда по средствам vuejs.</p>
+                <p>PHP • JavaScript • MySQL • Git • Vue.js • CSS • WordPress</p>
                 </div>
                 </div>
-                <div class="py-1">
-                <div class="px-4 py-1  bg-blue-200 rounded-lg">
-                <p >Место работы номер 1</p>
-                <p >Ставрополь</p>
-                <p >На работе я бегал какал и пукал на я зыке</p>
-                <p>хуйня, дарование пиздец</p>
-                </div>
-                </div>
+                
+                
                 
                 </div>
                 
@@ -64,21 +50,20 @@
             <div class="lg:w-3/12 py-2 px-2 w-full">
                 <p class="text_stile px-4 py-2">Информация для связи:</p>
                 <div class="py-1">
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">Почта</p>
+               <p class="px-4 py-1  bg-blue-200 rounded-lg">ghudia256@yandex.ru</p>
                 </div>
                 <div class="py-1">
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">тг</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">t.me/ghudia</p>
                 </div>
                 <div class="py-1">
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">гитхаб</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">https://github.com/khudia</p>
                 </div>
-                <div class="py-1">
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">линкедин</p>
-                </div>
+                
                 <p class="text_stile px-4 py-2">Желаемая ЗП:</p>
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">50 000р.</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">От 150 000 ₽</p>
                 <p class="text_stile px-4 py-2">Обо мне:</p>
-                <p class="px-4 py-1  bg-blue-200 rounded-lg">Сергей Есенин не сразу нашел свое литературное кредо: он бросался из одного направления в другое. Сначала выступал в лаптях и рубахе с новокрестьянскими поэтами, затем, облачившись в пиджак и галстук, создавал с имажинистами новую литературу. В конце концов он отказался от всех школ и стал свободным художником, заявив: «Я не крестьянский поэт и не имажинист, я просто поэт».</p>
+                <p class="px-4 py-1  bg-blue-200 rounded-lg">Более 13 лет занимаюсь веб разработкой, большую часть прошедшего времени было как увлечение, успешное но не стабильное. Последние годы,3-5 лет, участвовал и в крупных проектах (interra.spb.ru shp-losevo.ru sportin.su ask-lab.ru) и в множестве мелких. Начинал как backend ( php,mysql), но на данный момент больше склоняюсь к frontend (fullstack), особенно интересен vuejs.
+Свободный английский, немного испанский.</p>
 
             </div>
             </div>
